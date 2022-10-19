@@ -39,6 +39,8 @@ public class Main {
     public static void doExercise() {
         Robot robby = new Robot(4, 0, DOWN, 12);
         // TODO H00 Implement your solution here:
+
+        // brot is so nice123
         crash(); // TODO: H4 - remove if implemented
     }
 }
